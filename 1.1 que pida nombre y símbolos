@@ -27,7 +27,7 @@ public class xo {
         System.out.print("Ingrese el simbolo: ");
         symbol1 = read.next();
         System.out.println("");
-        System.out.print("Ingrese el nombre del jugador 1 ");
+        System.out.print("Ingrese el nombre del jugador 2 ");
         player2 = read.next();
         System.out.print("Ingrese el simbolo: ");
         symbol2 = read.next();
